@@ -103,5 +103,5 @@ Implemented build automation system and continuous integration environment to au
 08/2000 - 08/2002
 
 ## EDUCATION
-## University of Texas, Austin - BA Computer Science
+#### University of Texas, Austin - BA Computer Science
 1994 - 1999
